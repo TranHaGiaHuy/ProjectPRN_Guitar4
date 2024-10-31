@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-AIS6ARL; database=Group4DB;uid=sa;Password=123;TrustServerCertificate=True"
+  }
+}
