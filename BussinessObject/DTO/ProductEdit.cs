@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,11 +16,11 @@ namespace BussinessObject.DTO
         public int CategoryID { get; set; }
         public int ProductQuantity { get; set; }
         public string ProductDetailDescription { get; set; }
-        public string ProductChipset { get; set; }
-        public string ProductStorageInternal { get; set; }
-        public string ProductStorageExternal { get; set; }
-        public int ProductBatteryCapacity { get; set; }
-        public string ProductSelfieCamera { get; set; }
-        public string ProductMainCamera { get; set; }
+        public string ProductBackWood { get; set; }
+        public string ProductSideWood { get; set; }
+        public string ProductSeries { get; set; }
+        public string ProductOrigin { get; set; }
+        public string ProductNeck { get; set; }
+        public string ProductLength { get; set; }
     }
 }

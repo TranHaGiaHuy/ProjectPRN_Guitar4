@@ -3,6 +3,82 @@
   "WorkspaceRootPath": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|d:\\fa24\\prn231\\prn231_project\\shopproject\\bussinessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopproject_client\\pages\\admin\\adminaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|solutionrelative:shopproject_client\\pages\\admin\\adminaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\daos\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|d:\\fa24\\prn231\\prn231_project\\shopproject\\shopprojectapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\appsettings.json~rf86c3e5a.tmp||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\appsettings.json~rf86c3e5a.tmp||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\shopprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\shopprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|d:\\fa24\\prn231\\prn231_project\\shopproject\\bussinessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|d:\\fa24\\prn231\\prn231_project\\shopproject\\shopprojectapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|solutionrelative:shopprojectapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,7 +99,7 @@
       "RelativeMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|solutionrelative:shopprojectapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|d:\\fa24\\prn231\\prn231_project\\shopproject\\shopproject_client\\pages\\error\\error500.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopproject_client\\pages\\error\\error500.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|solutionrelative:shopproject_client\\pages\\error\\error500.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -47,11 +123,11 @@
       "RelativeMoniker": "D:0:0:{970AE711-DE95-4599-8946-16C90A477AA3}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\responsitory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|d:\\fa24\\prn231\\prn231_project\\shopproject\\shopprojectapigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|solutionrelative:shopprojectapigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|d:\\fa24\\prn231\\prn231_project\\shopproject\\shopprojectapigateway\\shopprojectapigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapigateway\\shopprojectapigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{F477CB31-4B72-4A13-ACBC-82CC6085C996}|ShopProjectApiGateway\\ShopProjectApiGateway.csproj|solutionrelative:shopprojectapigateway\\shopprojectapigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -111,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{10A11E21-F5C6-4AFC-A253-86DB2A94526D}|ShopProjectAccountAPI\\ShopProjectAccountAPI.csproj|solutionrelative:shopprojectaccountapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\shopprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\shopprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10A11E21-F5C6-4AFC-A253-86DB2A94526D}|ShopProjectAccountAPI\\ShopProjectAccountAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectaccountapi\\helper\\tokenreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10A11E21-F5C6-4AFC-A253-86DB2A94526D}|ShopProjectAccountAPI\\ShopProjectAccountAPI.csproj|solutionrelative:shopprojectaccountapi\\helper\\tokenreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -141,10 +213,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10A11E21-F5C6-4AFC-A253-86DB2A94526D}|ShopProjectAccountAPI\\ShopProjectAccountAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectaccountapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -203,32 +271,12 @@
       "RelativeMoniker": "D:0:0:{5E2511FA-5917-4E5B-B1E2-DA1321EFB9FA}|ShopProjectProductAPI\\ShopProjectProductAPI.csproj|solutionrelative:shopprojectproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:ShopProjectAPI\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\appsettings.json~rf86c3e5a.tmp||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\appsettings.json~rf86c3e5a.tmp||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E2511FA-5917-4E5B-B1E2-DA1321EFB9FA}|ShopProjectProductAPI\\ShopProjectProductAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectproductapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -271,10 +319,6 @@
       "RelativeMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|solutionrelative:shopproject_client\\pages\\admin\\adminaccount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopproject_client\\pages\\admin\\adminaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|solutionrelative:shopproject_client\\pages\\admin\\adminaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopproject_client\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{761D61C9-2981-4302-8E60-DE434995B80D}|ShopProject_Client\\ShopProject_Client.csproj|solutionrelative:shopproject_client\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -310,20 +354,12 @@
       "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\helper\\tokenreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\shopprojectapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9823287F-DD49-48C5-A12D-9A83B2CA2CE0}|ShopProjectAPI\\ShopProjectAPI.csproj|solutionrelative:shopprojectapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\daos\\emaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -370,10 +406,6 @@
       "RelativeMoniker": "D:0:0:{970AE711-DE95-4599-8946-16C90A477AA3}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -384,26 +416,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\daos\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\dataaccess\\daos\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C079833-978D-4331-9610-ABAC38AE5662}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dto\\productedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B06D1547-F603-4AF8-98AD-6EDFF9BF6069}|BussinessObject\\BussinessObject.csproj|D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\bussinessobject\\dto\\ordertotalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -493,7 +505,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -521,20 +533,254 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Models\\Product.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\Models\\Product.cs",
+              "RelativeToolTip": "BussinessObject\\Models\\Product.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:28:29.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductEdit.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductEdit.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\DTO\\ProductEdit.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductEdit.cs",
+              "RelativeToolTip": "BussinessObject\\DTO\\ProductEdit.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:34:39.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Error500.cshtml",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Error\\Error500.cshtml",
-              "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Error\\Error500.cshtml",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Error\\Error500.cshtml",
-              "RelativeToolTip": "ShopProject_Client\\Pages\\Error\\Error500.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ShopProjectAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:29:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "ShopProjectAPI\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:29:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ShopProjectAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:35:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAccount.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
+              "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
+              "RelativeToolTip": "ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
+              "ViewState": "AQIAANgBAAAAAAAAAAAAABwCAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T04:11:28.046Z",
+              "WhenOpened": "2024-10-31T17:17:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\DTO\\ProductResponse.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductResponse.cs",
+              "RelativeToolTip": "BussinessObject\\DTO\\ProductResponse.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA0wBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:34:42.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Db.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DB\\Db.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DB\\Db.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DB\\Db.cs",
+              "RelativeToolTip": "DataAccess\\DB\\Db.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:50:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOs\\ProductDAO.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAOs\\ProductDAO.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAnwHoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:35:23.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\UserResponse.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\DTO\\UserResponse.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\UserResponse.cs",
+              "RelativeToolTip": "BussinessObject\\DTO\\UserResponse.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:34:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductView.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductView.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\DTO\\ProductView.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductView.cs",
+              "RelativeToolTip": "BussinessObject\\DTO\\ProductView.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:34:44.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BussinessObject.csproj",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\BussinessObject.csproj",
+              "RelativeDocumentMoniker": "BussinessObject\\BussinessObject.csproj",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\BussinessObject.csproj",
+              "RelativeToolTip": "BussinessObject\\BussinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T14:54:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartDAO.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\CartDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOs\\CartDAO.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\CartDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAOs\\CartDAO.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:35:05.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\Dockerfile",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Dockerfile",
+              "RelativeToolTip": "ShopProjectAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T04:34:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\Startup.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Startup.cs",
+              "RelativeToolTip": "ShopProjectAPI\\Startup.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:29:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\appsettings.json",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json",
+              "RelativeToolTip": "ShopProjectAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T07:29:47.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json~RF86c3e5a.TMP",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
+              "RelativeToolTip": "ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T07:29:49.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopProjectAPI.csproj",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\ShopProjectAPI.csproj",
+              "RelativeDocumentMoniker": "ShopProjectAPI\\ShopProjectAPI.csproj",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\ShopProjectAPI.csproj",
+              "RelativeToolTip": "ShopProjectAPI\\ShopProjectAPI.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T19:17:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Models\\User.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\Models\\User.cs",
+              "RelativeToolTip": "BussinessObject\\Models\\User.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:28:16.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "ShopProjectApiGateway\\Program.cs",
@@ -547,72 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppUrl.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\AppUrl.cs",
-              "RelativeDocumentMoniker": "ShopProject_Client\\AppUrl.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\AppUrl.cs",
-              "RelativeToolTip": "ShopProject_Client\\AppUrl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:23:21.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Startup.cs",
-              "RelativeDocumentMoniker": "ShopProject_Client\\Startup.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Startup.cs",
-              "RelativeToolTip": "ShopProject_Client\\Startup.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAIwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:48:08.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Program.cs",
-              "RelativeDocumentMoniker": "ShopProject_Client\\Program.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Program.cs",
-              "RelativeToolTip": "ShopProject_Client\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:48:07.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Home\\Home.cshtml",
-              "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Home\\Home.cshtml",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Home\\Home.cshtml",
-              "RelativeToolTip": "ShopProject_Client\\Pages\\Home\\Home.cshtml",
-              "ViewState": "AQIAAJQCAAAAAAAAAAAIwKQCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T19:31:30.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailRepository.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\EmailRepository.cs",
-              "RelativeDocumentMoniker": "Responsitory\\Repository\\EmailRepository.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\EmailRepository.cs",
-              "RelativeToolTip": "Responsitory\\Repository\\EmailRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:37:31.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "Ocelot.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectApiGateway\\Ocelot.json",
               "RelativeDocumentMoniker": "ShopProjectApiGateway\\Ocelot.json",
@@ -620,12 +801,71 @@
               "RelativeToolTip": "ShopProjectApiGateway\\Ocelot.json",
               "ViewState": "AQIAAIYBAAAAAAAAAAAAwJEBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T03:07:53.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T03:07:53.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
+              "Title": "EmailRepository.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\EmailRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\Repository\\EmailRepository.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\EmailRepository.cs",
+              "RelativeToolTip": "Responsitory\\Repository\\EmailRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:37:31.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Home\\Home.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Home\\Home.cshtml",
+              "RelativeToolTip": "ShopProject_Client\\Pages\\Home\\Home.cshtml",
+              "ViewState": "AQIAAJQCAAAAAAAAAAAIwKQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:31:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Program.cs",
+              "RelativeDocumentMoniker": "ShopProject_Client\\Program.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Program.cs",
+              "RelativeToolTip": "ShopProject_Client\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:48:07.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Startup.cs",
+              "RelativeDocumentMoniker": "ShopProject_Client\\Startup.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Startup.cs",
+              "RelativeToolTip": "ShopProject_Client\\Startup.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:48:08.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppUrl.cs",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\AppUrl.cs",
+              "RelativeDocumentMoniker": "ShopProject_Client\\AppUrl.cs",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\AppUrl.cs",
+              "RelativeToolTip": "ShopProject_Client\\AppUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:23:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\appsettings.json",
               "RelativeDocumentMoniker": "ShopProject_Client\\appsettings.json",
@@ -633,12 +873,23 @@
               "RelativeToolTip": "ShopProject_Client\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T07:51:04.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T07:51:04.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
+              "Title": "Error500.cshtml",
+              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Error\\Error500.cshtml",
+              "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Error\\Error500.cshtml",
+              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Error\\Error500.cshtml",
+              "RelativeToolTip": "ShopProject_Client\\Pages\\Error\\Error500.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T04:11:28.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "DataAccess.csproj",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
@@ -651,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "Responsitory.csproj",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Responsitory.csproj",
               "RelativeDocumentMoniker": "Responsitory\\Responsitory.csproj",
@@ -664,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectApiGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShopProjectApiGateway\\Properties\\launchSettings.json",
@@ -672,12 +923,11 @@
               "RelativeToolTip": "ShopProjectApiGateway\\Properties\\launchSettings.json",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T03:22:59.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T03:22:59.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
               "Title": "ShopProjectApiGateway",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectApiGateway\\ShopProjectApiGateway.csproj",
               "RelativeDocumentMoniker": "ShopProjectApiGateway\\ShopProjectApiGateway.csproj",
@@ -689,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectApiGateway\\appsettings.json",
               "RelativeDocumentMoniker": "ShopProjectApiGateway\\appsettings.json",
@@ -697,12 +947,11 @@
               "RelativeToolTip": "ShopProjectApiGateway\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T03:20:19.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T03:20:19.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "ShopProjectApiGateway.csproj",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectApiGateway\\ShopProjectApiGateway.csproj",
               "RelativeDocumentMoniker": "ShopProjectApiGateway\\ShopProjectApiGateway.csproj",
@@ -715,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 38,
               "Title": "ShopProject_Client.csproj",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\ShopProject_Client.csproj",
               "RelativeDocumentMoniker": "ShopProject_Client\\ShopProject_Client.csproj",
@@ -723,11 +972,12 @@
               "RelativeToolTip": "ShopProject_Client\\ShopProject_Client.csproj",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T07:48:05.744Z"
+              "WhenOpened": "2024-10-31T07:48:05.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 34,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Properties\\launchSettings.json",
@@ -739,7 +989,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 37,
               "Title": "ShopProjectAccountAPI.csproj",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\ShopProjectAccountAPI.csproj",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\ShopProjectAccountAPI.csproj",
@@ -747,11 +997,12 @@
               "RelativeToolTip": "ShopProjectAccountAPI\\ShopProjectAccountAPI.csproj",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T09:23:14.627Z"
+              "WhenOpened": "2024-10-31T09:23:14.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 39,
               "Title": "ShopProjectOrderAPI.csproj",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\ShopProjectOrderAPI.csproj",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\ShopProjectOrderAPI.csproj",
@@ -759,11 +1010,12 @@
               "RelativeToolTip": "ShopProjectOrderAPI\\ShopProjectOrderAPI.csproj",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T07:47:21.871Z"
+              "WhenOpened": "2024-10-31T07:47:21.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 36,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Properties\\launchSettings.json",
@@ -775,7 +1027,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 35,
               "Title": "ShopProjectProductAPI.csproj",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\ShopProjectProductAPI.csproj",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\ShopProjectProductAPI.csproj",
@@ -783,22 +1035,24 @@
               "RelativeToolTip": "ShopProjectProductAPI\\ShopProjectProductAPI.csproj",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T19:35:53.812Z"
+              "WhenOpened": "2024-10-31T19:35:53.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 40,
               "Title": "ShopProjectProductAPI",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\ShopProjectProductAPI.csproj",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\ShopProjectProductAPI.csproj",
               "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\ShopProjectProductAPI.csproj",
               "RelativeToolTip": "ShopProjectProductAPI\\ShopProjectProductAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-01T03:16:41.493Z"
+              "WhenOpened": "2024-11-01T03:16:41.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 41,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Properties\\launchSettings.json",
@@ -810,7 +1064,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 42,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShopProject_Client\\Properties\\launchSettings.json",
@@ -822,7 +1076,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 43,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\appsettings.json",
@@ -834,19 +1088,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ShopProjectAPI.csproj",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\ShopProjectAPI.csproj",
-              "RelativeDocumentMoniker": "ShopProjectAPI\\ShopProjectAPI.csproj",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\ShopProjectAPI.csproj",
-              "RelativeToolTip": "ShopProjectAPI\\ShopProjectAPI.csproj",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T19:17:52.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 45,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Controllers\\AccountController.cs",
@@ -858,7 +1100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 44,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Controllers\\UserController.cs",
@@ -870,7 +1112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
               "Title": "TokenReponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Helper\\TokenReponse.cs",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Helper\\TokenReponse.cs",
@@ -882,7 +1124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Helper\\AutoMapper.cs",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Helper\\AutoMapper.cs",
@@ -894,7 +1136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 48,
               "Title": "IdentifyRole.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Helper\\IdentifyRole.cs",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Helper\\IdentifyRole.cs",
@@ -906,7 +1148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 50,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Program.cs",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Program.cs",
@@ -918,7 +1160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 51,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Startup.cs",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Startup.cs",
@@ -930,7 +1172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 54,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Controllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Controllers\\OrderDetailController.cs",
@@ -942,7 +1184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 53,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAccountAPI\\Dockerfile",
               "RelativeDocumentMoniker": "ShopProjectAccountAPI\\Dockerfile",
@@ -954,7 +1196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 49,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Helper\\AutoMapper.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Helper\\AutoMapper.cs",
@@ -966,7 +1208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 55,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Controllers\\OrderController.cs",
@@ -978,7 +1220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 56,
               "Title": "CartsController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Controllers\\CartsController.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Controllers\\CartsController.cs",
@@ -990,19 +1232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "ShopProjectAPI\\Startup.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Startup.cs",
-              "RelativeToolTip": "ShopProjectAPI\\Startup.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAwwJIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:29:54.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 52,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Program.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Program.cs",
@@ -1014,7 +1244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 57,
               "Title": "TokenReponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Helper\\TokenReponse.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Helper\\TokenReponse.cs",
@@ -1026,7 +1256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 58,
               "Title": "IdentifyRole.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Helper\\IdentifyRole.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Helper\\IdentifyRole.cs",
@@ -1038,7 +1268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 59,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Helper\\AutoMapper.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Helper\\AutoMapper.cs",
@@ -1050,7 +1280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 60,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\appsettings.json",
@@ -1062,7 +1292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 61,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Dockerfile",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Dockerfile",
@@ -1074,7 +1304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 62,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Startup.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Startup.cs",
@@ -1086,7 +1316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 63,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectOrderAPI\\Program.cs",
               "RelativeDocumentMoniker": "ShopProjectOrderAPI\\Program.cs",
@@ -1098,7 +1328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 66,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\appsettings.json",
@@ -1110,7 +1340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 65,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Startup.cs",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Startup.cs",
@@ -1122,7 +1352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 64,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Program.cs",
@@ -1134,19 +1364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ShopProjectAPI\\appsettings.json",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json",
-              "RelativeToolTip": "ShopProjectAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T07:29:47.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 67,
               "Title": "libman.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\libman.json",
               "RelativeDocumentMoniker": "ShopProjectAPI\\libman.json",
@@ -1158,19 +1376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "BussinessObject.csproj",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\BussinessObject.csproj",
-              "RelativeDocumentMoniker": "BussinessObject\\BussinessObject.csproj",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\BussinessObject.csproj",
-              "RelativeToolTip": "BussinessObject\\BussinessObject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T14:54:16.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 68,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\ProductController.cs",
@@ -1182,43 +1388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ShopProjectAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:35:40.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ShopProjectAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:29:26.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "appsettings.json~RF86c3e5a.TMP",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
-              "RelativeDocumentMoniker": "ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
-              "RelativeToolTip": "ShopProjectAPI\\appsettings.json~RF86c3e5a.TMP",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-31T07:29:49.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 71,
               "Title": "TokenReponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Helper\\TokenReponse.cs",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Helper\\TokenReponse.cs",
@@ -1230,7 +1400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 70,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Controllers\\CategoriesController.cs",
@@ -1242,7 +1412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Controllers\\ProductController.cs",
@@ -1254,7 +1424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 72,
               "Title": "IdentifyRole.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Helper\\IdentifyRole.cs",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Helper\\IdentifyRole.cs",
@@ -1266,7 +1436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 73,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectProductAPI\\Helper\\AutoMapper.cs",
               "RelativeDocumentMoniker": "ShopProjectProductAPI\\Helper\\AutoMapper.cs",
@@ -1278,7 +1448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 75,
               "Title": "IAccountRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\IAccountRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\IAccountRepository.cs",
@@ -1290,7 +1460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 74,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\appsettings.json",
               "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
@@ -1302,7 +1472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 76,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\Repository\\UserRepository.cs",
@@ -1314,7 +1484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 77,
               "Title": "UserDAO.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\UserDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\DAOs\\UserDAO.cs",
@@ -1326,7 +1496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 78,
               "Title": "AdminAccount.cshtml.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml.cs",
               "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml.cs",
@@ -1338,19 +1508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "AdminAccount.cshtml",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
-              "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
-              "RelativeToolTip": "ShopProject_Client\\Pages\\Admin\\AdminAccount.cshtml",
-              "ViewState": "AQIAABQCAAAAAAAAAAAAABwCAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T17:17:46.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 79,
               "Title": "Dashboard.cshtml.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Admin\\Dashboard.cshtml.cs",
               "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Admin\\Dashboard.cshtml.cs",
@@ -1362,7 +1520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 80,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProject_Client\\Pages\\Admin\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "ShopProject_Client\\Pages\\Admin\\Dashboard.cshtml",
@@ -1374,7 +1532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 83,
               "Title": "ICartRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\ICartRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\ICartRepository.cs",
@@ -1386,7 +1544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 81,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\IUserRepository.cs",
@@ -1398,7 +1556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 82,
               "Title": "ChangePasswordResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ChangePasswordResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\ChangePasswordResponse.cs",
@@ -1410,7 +1568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 84,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\giahu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
               "ToolTip": "C:\\Users\\giahu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
@@ -1420,7 +1578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 85,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\OrderDetailController.cs",
@@ -1432,7 +1590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 86,
               "Title": "IdentifyRole.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Helper\\IdentifyRole.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Helper\\IdentifyRole.cs",
@@ -1444,7 +1602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 87,
               "Title": "TokenReponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Helper\\TokenReponse.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Helper\\TokenReponse.cs",
@@ -1456,19 +1614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "CartsController.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\CartsController.cs",
-              "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\CartsController.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\CartsController.cs",
-              "RelativeToolTip": "ShopProjectAPI\\Controllers\\CartsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:29:18.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 88,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\OrderController.cs",
@@ -1480,7 +1626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 89,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Controllers\\CategoriesController.cs",
@@ -1492,19 +1638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "Db.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DB\\Db.cs",
-              "RelativeDocumentMoniker": "DataAccess\\DB\\Db.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DB\\Db.cs",
-              "RelativeToolTip": "DataAccess\\DB\\Db.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAxwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:50:18.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 91,
               "Title": "IEmailRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\IEmailRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\IEmailRepository.cs",
@@ -1516,7 +1650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 90,
               "Title": "EmailDAO.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\EmailDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\DAOs\\EmailDAO.cs",
@@ -1528,7 +1662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 92,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\Repository\\ProductRepository.cs",
@@ -1540,7 +1674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 93,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\Repository\\OrderRepository.cs",
@@ -1552,7 +1686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 94,
               "Title": "OrderDetailRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\Repository\\OrderDetailRepository.cs",
@@ -1564,7 +1698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 95,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\Repository\\CategoryRepository.cs",
@@ -1576,7 +1710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 96,
               "Title": "CartRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\Repository\\CartRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\Repository\\CartRepository.cs",
@@ -1588,7 +1722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 97,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\IProductRepository.cs",
@@ -1600,7 +1734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 98,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\IOrderRepository.cs",
@@ -1612,7 +1746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 99,
               "Title": "IOrderDetailRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\IOrderDetailRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\IOrderDetailRepository.cs",
@@ -1624,7 +1758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 100,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\Responsitory\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Responsitory\\IRepository\\ICategoryRepository.cs",
@@ -1636,19 +1770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
-              "Title": "ProductDAO.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\ProductDAO.cs",
-              "RelativeDocumentMoniker": "DataAccess\\DAOs\\ProductDAO.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\ProductDAO.cs",
-              "RelativeToolTip": "DataAccess\\DAOs\\ProductDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:35:23.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 101,
               "Title": "OrderDetailDAO.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\OrderDetailDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\DAOs\\OrderDetailDAO.cs",
@@ -1660,7 +1782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 102,
               "Title": "OrderDAO.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\OrderDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\DAOs\\OrderDAO.cs",
@@ -1672,7 +1794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 103,
               "Title": "CategoryDAO.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\DAOs\\CategoryDAO.cs",
@@ -1684,67 +1806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
-              "Title": "CartDAO.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\CartDAO.cs",
-              "RelativeDocumentMoniker": "DataAccess\\DAOs\\CartDAO.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\DataAccess\\DAOs\\CartDAO.cs",
-              "RelativeToolTip": "DataAccess\\DAOs\\CartDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:35:05.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 97,
-              "Title": "UserResponse.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\UserResponse.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\DTO\\UserResponse.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\UserResponse.cs",
-              "RelativeToolTip": "BussinessObject\\DTO\\UserResponse.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:34:46.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 98,
-              "Title": "ProductView.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductView.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\DTO\\ProductView.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductView.cs",
-              "RelativeToolTip": "BussinessObject\\DTO\\ProductView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:34:44.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 99,
-              "Title": "ProductResponse.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductResponse.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\DTO\\ProductResponse.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductResponse.cs",
-              "RelativeToolTip": "BussinessObject\\DTO\\ProductResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:34:42.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 100,
-              "Title": "ProductEdit.cs",
-              "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductEdit.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\DTO\\ProductEdit.cs",
-              "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\ProductEdit.cs",
-              "RelativeToolTip": "BussinessObject\\DTO\\ProductEdit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:34:39.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 104,
               "Title": "OrderTotalPrice.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\OrderTotalPrice.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\OrderTotalPrice.cs",
@@ -1756,7 +1818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 105,
               "Title": "OrderResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\OrderResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\OrderResponse.cs",
@@ -1768,7 +1830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 106,
               "Title": "OrderDetailTotalPriceResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\OrderDetailTotalPriceResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\OrderDetailTotalPriceResponse.cs",
@@ -1780,7 +1842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 107,
               "Title": "OrderDetailResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\OrderDetailResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\OrderDetailResponse.cs",
@@ -1792,7 +1854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 108,
               "Title": "OrderDetailAdminResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\OrderDetailAdminResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\OrderDetailAdminResponse.cs",
@@ -1804,7 +1866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 109,
               "Title": "OrderAdminResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\OrderAdminResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\OrderAdminResponse.cs",
@@ -1816,7 +1878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 110,
               "Title": "CusView.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CusView.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CusView.cs",
@@ -1828,7 +1890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 111,
               "Title": "CustomerResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CustomerResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CustomerResponse.cs",
@@ -1840,7 +1902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 112,
               "Title": "CustomCartResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CustomCartResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CustomCartResponse.cs",
@@ -1852,7 +1914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 113,
               "Title": "CountProduct.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CountProduct.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CountProduct.cs",
@@ -1864,7 +1926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 114,
               "Title": "CountOrder.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CountOrder.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CountOrder.cs",
@@ -1876,7 +1938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 115,
               "Title": "CountCartQuan.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CountCartQuan.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CountCartQuan.cs",
@@ -1888,7 +1950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 116,
               "Title": "CountAccount.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CountAccount.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CountAccount.cs",
@@ -1900,7 +1962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 117,
               "Title": "CategoryResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CategoryResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CategoryResponse.cs",
@@ -1912,7 +1974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 118,
               "Title": "CartTotalPrice.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CartTotalPrice.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CartTotalPrice.cs",
@@ -1924,7 +1986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 119,
               "Title": "CartResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\CartResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\CartResponse.cs",
@@ -1936,7 +1998,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 120,
               "Title": "AccountResponse.cs",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\BussinessObject\\DTO\\AccountResponse.cs",
               "RelativeDocumentMoniker": "BussinessObject\\DTO\\AccountResponse.cs",
@@ -1948,7 +2010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 121,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Properties\\launchSettings.json",
@@ -1960,7 +2022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 122,
               "Title": "Resources.resx",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "ShopProjectAPI\\Properties\\Resources.resx",
@@ -1971,14 +2033,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 123,
               "Title": "ShopProjectAPI",
               "DocumentMoniker": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\ShopProjectAPI.csproj",
               "RelativeDocumentMoniker": "ShopProjectAPI\\ShopProjectAPI.csproj",
               "ToolTip": "D:\\FA24\\PRN231\\PRN231_Project\\ShopProject\\ShopProjectAPI\\ShopProjectAPI.csproj",
               "RelativeToolTip": "ShopProjectAPI\\ShopProjectAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T07:29:35.352Z"
+              "WhenOpened": "2024-10-31T07:29:35.352Z",
+              "EditorCaption": ""
             }
           ]
         },

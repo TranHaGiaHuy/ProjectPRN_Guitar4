@@ -35,23 +35,23 @@ namespace BussinessObject.Models
         [Required(ErrorMessage = "ProductDetailDescription is required")]
         public string ProductDetailDescription { get; set; }
 
-        [Required(ErrorMessage = "ProductChipset is required")]
-        public string ProductChipset { get; set; }
+        [Required(ErrorMessage = "ProductBackWood is required")]
+        public string ProductBackWood { get; set; }
 
-        [Required(ErrorMessage = "ProductStorageInternal is required")]
-        public string ProductStorageInternal { get; set; }
+        [Required(ErrorMessage = "ProductSideWood is required")]
+        public string ProductSideWood { get; set; }
 
-        [Required(ErrorMessage = "ProductStorageExternal is required")]
-        public string ProductStorageExternal { get; set; }
+        [Required(ErrorMessage = "ProductSeries is required")]
+        public string ProductSeries { get; set; }
 
-        [Required(ErrorMessage = "ProductBatteryCapacity is required")]
-        public int ProductBatteryCapacity { get; set; }
+        [Required(ErrorMessage = "ProductOrigin is required")]
+        public string ProductOrigin { get; set; }
 
-        [Required(ErrorMessage = "ProductSelfieCamera is required")]
-        public string ProductSelfieCamera { get; set; }
+        [Required(ErrorMessage = "ProductNeck is required")]
+        public string ProductNeck { get; set; }
 
-        [Required(ErrorMessage = "ProductMainCamera is required")]
-        public string ProductMainCamera { get; set; }
+        [Required(ErrorMessage = "ProductLength is required")]
+        public string ProductLength { get; set; }
 
         [MaxLength(50, ErrorMessage = "ProductStatus must be at most 50 characters")]
         [Required(ErrorMessage = "ProductStatus is required")]

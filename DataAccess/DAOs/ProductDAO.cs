@@ -44,16 +44,16 @@ namespace DataAccess.DAOs
                 product.ProductID = count;
             }
             product.ProductName = productResponse.ProductName;
-            product.ProductBatteryCapacity = productResponse.ProductBatteryCapacity;
-            product.ProductChipset = productResponse.ProductChipset;
+            product.ProductOrigin = productResponse.ProductOrigin;
+            product.ProductBackWood = productResponse.ProductBackWood;
             product.ProductDetailDescription = productResponse.ProductDetailDescription;
             product.ProductImage = productResponse.ProductImage;
-            product.ProductMainCamera = productResponse.ProductMainCamera;
+            product.ProductLength = productResponse.ProductLength;
             product.ProductPrice = productResponse.ProductPrice;
             product.ProductQuantity = productResponse.ProductQuantity;
-            product.ProductSelfieCamera = productResponse.ProductSelfieCamera;
-            product.ProductStorageExternal = productResponse.ProductStorageExternal;
-            product.ProductStorageInternal = productResponse.ProductStorageInternal;
+            product.ProductNeck = productResponse.ProductNeck;
+            product.ProductSeries = productResponse.ProductSeries;
+            product.ProductSideWood = productResponse.ProductSideWood;
             product.CategoryID = productResponse.CategoryID;
             product.ProductStatus = "1";
             _dbContext.Products.Add(product);
@@ -89,16 +89,16 @@ namespace DataAccess.DAOs
             {
                 ProductID = product.ProductID,
                 ProductName = product.ProductName,
-                ProductBatteryCapacity = product.ProductBatteryCapacity,
-                ProductChipset = product.ProductChipset,
+                ProductOrigin = product.ProductOrigin,
+                ProductBackWood = product.ProductBackWood,
                 ProductDetailDescription = product.ProductDetailDescription,
                 ProductImage = product.ProductImage,
-                ProductMainCamera = product.ProductMainCamera,
+                ProductLength = product.ProductLength,
                 ProductPrice = product.ProductPrice,
                 ProductQuantity = product.ProductQuantity,
-                ProductSelfieCamera = product.ProductSelfieCamera,
-                ProductStorageExternal = product.ProductStorageExternal,
-                ProductStorageInternal = product.ProductStorageInternal,
+                ProductNeck = product.ProductNeck,
+                ProductSeries = product.ProductSeries,
+                ProductSideWood = product.ProductSideWood,
                 CategoryID = product.CategoryID,
                 CategoryName = category.CategoryName,
             };
@@ -116,16 +116,16 @@ namespace DataAccess.DAOs
             {
                 Product or = _dbContext.Products.Where(x => x.ProductID == id).FirstOrDefault();
                 or.ProductName = productResponse.ProductName;
-                or.ProductBatteryCapacity = productResponse.ProductBatteryCapacity;
-                or.ProductChipset = productResponse.ProductChipset;
+                or.ProductOrigin = productResponse.ProductOrigin;
+                or.ProductBackWood = productResponse.ProductBackWood;
                 or.ProductDetailDescription = productResponse.ProductDetailDescription;
                 or.ProductImage = productResponse.ProductImage;
-                or.ProductMainCamera = productResponse.ProductMainCamera;
+                or.ProductLength = productResponse.ProductLength;
                 or.ProductPrice = productResponse.ProductPrice;
                 or.ProductQuantity = productResponse.ProductQuantity;
-                or.ProductSelfieCamera = productResponse.ProductSelfieCamera;
-                or.ProductStorageExternal = productResponse.ProductStorageExternal;
-                or.ProductStorageInternal = productResponse.ProductStorageInternal;
+                or.ProductNeck = productResponse.ProductNeck;
+                or.ProductSeries = productResponse.ProductSeries;
+                or.ProductSideWood = productResponse.ProductSideWood;
                 or.CategoryID = productResponse.CategoryID;
                 or.ProductStatus = "1";
                 _dbContext.Products.Update(or);
@@ -154,16 +154,16 @@ namespace DataAccess.DAOs
                         {
                             ProductID = product.ProductID,
                             ProductName = product.ProductName,
-                            ProductBatteryCapacity = product.ProductBatteryCapacity,
-                            ProductChipset = product.ProductChipset,
+                            ProductOrigin = product.ProductOrigin,
+                            ProductBackWood = product.ProductBackWood,
                             ProductDetailDescription = product.ProductDetailDescription,
                             ProductImage = product.ProductImage,
-                            ProductMainCamera = product.ProductMainCamera,
+                            ProductLength = product.ProductLength,
                             ProductPrice = product.ProductPrice,
                             ProductQuantity = product.ProductQuantity,
-                            ProductSelfieCamera = product.ProductSelfieCamera,
-                            ProductStorageExternal = product.ProductStorageExternal,
-                            ProductStorageInternal = product.ProductStorageInternal,
+                            ProductNeck = product.ProductNeck,
+                            ProductSeries = product.ProductSeries,
+                            ProductSideWood = product.ProductSideWood,
                             CategoryID = product.CategoryID,
                             CategoryName = category.CategoryName,
                         };
@@ -191,16 +191,16 @@ namespace DataAccess.DAOs
                 {
                     ProductID = product.ProductID,
                     ProductName = product.ProductName,
-                    ProductBatteryCapacity = product.ProductBatteryCapacity,
-                    ProductChipset = product.ProductChipset,
+                    ProductOrigin = product.ProductOrigin,
+                    ProductBackWood = product.ProductBackWood,
                     ProductDetailDescription = product.ProductDetailDescription,
                     ProductImage = product.ProductImage,
-                    ProductMainCamera = product.ProductMainCamera,
+                    ProductLength = product.ProductLength,
                     ProductPrice = product.ProductPrice,
                     ProductQuantity = product.ProductQuantity,
-                    ProductSelfieCamera = product.ProductSelfieCamera,
-                    ProductStorageExternal = product.ProductStorageExternal,
-                    ProductStorageInternal = product.ProductStorageInternal,
+                    ProductNeck = product.ProductNeck,
+                    ProductSeries = product.ProductSeries,
+                    ProductSideWood = product.ProductSideWood,
                     CategoryID = product.CategoryID,
                     CategoryName = category.CategoryName,
                 };
@@ -237,16 +237,16 @@ namespace DataAccess.DAOs
                         {
                             ProductID = product.ProductID,
                             ProductName = product.ProductName,
-                            ProductBatteryCapacity = product.ProductBatteryCapacity,
-                            ProductChipset = product.ProductChipset,
+                            ProductOrigin = product.ProductOrigin,
+                            ProductBackWood = product.ProductBackWood,
                             ProductDetailDescription = product.ProductDetailDescription,
                             ProductImage = product.ProductImage,
-                            ProductMainCamera = product.ProductMainCamera,
+                            ProductLength = product.ProductLength,
                             ProductPrice = product.ProductPrice,
                             ProductQuantity = product.ProductQuantity,
-                            ProductSelfieCamera = product.ProductSelfieCamera,
-                            ProductStorageExternal = product.ProductStorageExternal,
-                            ProductStorageInternal = product.ProductStorageInternal,
+                            ProductNeck = product.ProductNeck,
+                            ProductSeries = product.ProductSeries,
+                            ProductSideWood = product.ProductSideWood,
                             CategoryID = product.CategoryID,
                             CategoryName = category.CategoryName,
                         };
