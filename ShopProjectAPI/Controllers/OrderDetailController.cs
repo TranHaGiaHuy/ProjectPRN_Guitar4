@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System;
 using Microsoft.AspNetCore.Authorization;
 using ShopProjectAPI.Helper;
-using Responsitory.IRepository;
 
 namespace ShopProjectAPI.Controllers
 {

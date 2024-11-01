@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xsKB7dL0gqRpsLt8CRstEW63RPtuz12lC/ZhQomOZCY=",
+  "Source": "ShopProjectApiGateway",
+  "BasePath": "_content/ShopProjectApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

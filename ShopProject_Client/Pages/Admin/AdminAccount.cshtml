@@ -421,7 +421,7 @@
                 if (result.value) {
                     console.log(id);
                     $.ajax({
-                        url: 'https://localhost:44312/Account/AdminAccount?id=' + id,
+                        url: baseUrl+'Account/AdminAccount?id=' + id,
                         method: 'GET',
                         headers: {
                             'Authorization': 'Bearer ' + accessToken
@@ -448,7 +448,7 @@
         });
         $.ajax({
             type: "GET",
-            url: "https://localhost:44312/Account",
+            url: baseUrl+ 'Account",
             dataType: "json",
             headers: {
                 'Authorization': 'Bearer ' + accessToken
@@ -502,7 +502,7 @@
         var id = parseInt(accountID);
 
         $.ajax({
-            url: 'https://localhost:44312/Account/' + id,
+            url: baseUrl+'Account/' + id,
             method: 'DELETE',
             headers: {
                 'Authorization': 'Bearer ' + accessToken
@@ -537,7 +537,7 @@
                 console.log(result);
                 console.log(id);
                 $.ajax({
-                    url: 'https://localhost:44312/Account/' + id,
+                    url: baseUrl+'Account/' + id,
                     method: 'DELETE',
                     headers: {
                         'Authorization': 'Bearer ' + accessToken

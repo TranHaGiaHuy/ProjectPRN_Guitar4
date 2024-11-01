@@ -2,8 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using System;
-using Responsitory.DTO;
-using Responsitory.IService;
+using BussinessObject.DTO;
+using Responsitory.IRepository;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Authorization;
 using ShopProjectAccountAPI.Helper;
@@ -15,8 +15,8 @@ namespace ShopProjectAccountAPI.Controllers
     [Authorize]
     public class UserController : ControllerBase
     {
-        private readonly IUserService _UserService;
-        public UserController(IUserService UserService)
+        private readonly IUserRepository _UserService;
+        public UserController(IUserRepository UserService)
         {
             _UserService = UserService;
         }

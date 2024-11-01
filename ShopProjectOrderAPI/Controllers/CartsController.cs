@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Responsitory.IService;
-using Responsitory.DTO;
+using Responsitory.IRepository;
+using BussinessObject.DTO;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Authorization;
-using ShopProjectOrderAPI.Helper;
 
 namespace ShopProjectOrderAPI.Controllers
 {
@@ -14,8 +13,8 @@ namespace ShopProjectOrderAPI.Controllers
     [Authorize]
     public class CartsController : ControllerBase
     {
-        private readonly ICartService _cartService;
-        public CartsController(ICartService cartService)
+        private readonly ICartRepository _cartService;
+        public CartsController(ICartRepository cartService)
         {
             _cartService = cartService;
         }

@@ -1,9 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using System;
-using Responsitory.IService;
-using Responsitory.DTO;
-using AutoMapper.Execution;
 using Microsoft.IdentityModel.Tokens;
 using ShopProjectAccountAPI.Helper;
 using System.IdentityModel.Tokens.Jwt;
@@ -11,9 +8,9 @@ using System.Security.Claims;
 using System.Text;
 using BussinessObject.Models;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using Newtonsoft.Json.Linq;
 using System.Collections.Generic;
+using Responsitory.IRepository;
+using BussinessObject.DTO;
 
 namespace ShopProjectAccountAPI.Controllers
 {
@@ -23,10 +20,10 @@ namespace ShopProjectAccountAPI.Controllers
     public class AccountController : ControllerBase
     {
 
-        private readonly IAccountService _AccountService;
-        private readonly IEmailService _EmailService;
+        private readonly IAccountRepository _AccountService;
+        private readonly IEmailRepository _EmailService;
 
-        public AccountController(IAccountService AccountService, IEmailService emailService)
+        public AccountController(IAccountRepository AccountService, IEmailRepository emailService)
         {
             _AccountService = AccountService;
             _EmailService = emailService;
@@ -65,7 +62,6 @@ namespace ShopProjectAccountAPI.Controllers
         {
             try
             {
-                Console.WriteLine("DANG O BUOC NAY");
                 if (CustomerResponse.FullName == "" ||
                    CustomerResponse.Address == "" ||
                    CustomerResponse.Phone == "" ||
@@ -77,9 +73,9 @@ namespace ShopProjectAccountAPI.Controllers
                 {
                     return BadRequest(new { Message = "Account chua xac thuc! Thu lai" });
                 }
-                Console.WriteLine("DANG O BUOC NAY1");
-                var newAccountId =await _AccountService.CreateAccountAsync(CustomerResponse);
-                Console.WriteLine("DANG O BUOC NAY2");
+                var newAccountId = await _AccountService.CreateAccountAsync(CustomerResponse);
+                var Account = await _AccountService.GetByIdAsync(newAccountId);
+
                 // Tạo nội dung email với newAccountId
                 var mailContent = new MailContent()
                 {
@@ -109,8 +105,6 @@ namespace ShopProjectAccountAPI.Controllers
                                 </html>"
                 };
                 _EmailService.SendMail(mailContent);
-                var Account = await _AccountService.GetByIdAsync(newAccountId);
-
                 return Account == null ? NotFound() : Ok(Account);
             }
             catch (Exception ex)

@@ -691,7 +691,6 @@ D:\FA24\PRN231\PRN231_Project\ShopProject_Client\ShopProject_Client\obj\Debug\ne
 D:\FA24\PRN231\PRN231_Project\ShopProject_Client\ShopProject_Client\obj\Debug\net5.0\ref\ShopProject_Client.dll
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\bin\Debug\net5.0\appsettings.Development.json
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\bin\Debug\net5.0\appsettings.json
-D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\bin\Debug\net5.0\Ocelot.json
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\bin\Debug\net5.0\ShopProject_Client.exe
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\bin\Debug\net5.0\ShopProject_Client.deps.json
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\bin\Debug\net5.0\ShopProject_Client.runtimeconfig.json
@@ -717,6 +716,7 @@ D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\Sh
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\ShopProject_Client.MvcApplicationPartsAssemblyInfo.cache
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\ShopProject_Client.RazorAssemblyInfo.cache
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\ShopProject_Client.RazorAssemblyInfo.cs
+D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\ShopProject_Client.sourcelink.json
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\ShopProject_Client.TagHelpers.input.cache
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\ShopProject_Client.TagHelpers.output.cache
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProject_Client\obj\Debug\net5.0\ShopProject_Client.RazorCoreGenerate.cache

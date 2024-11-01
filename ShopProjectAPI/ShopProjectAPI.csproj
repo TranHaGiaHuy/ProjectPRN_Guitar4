@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>7fd01bfc-c2ec-488d-ab31-4b7a61bceb79</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,23 +19,18 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
-	<ItemGroup>
-		<Reference Include="BussinessObject">
-			<HintPath>bin\Debug\net5.0\BussinessObject.dll</HintPath>
-		</Reference>
-		<Reference Include="DataAccess">
-			<HintPath>bin\Debug\net5.0\DataAccess.dll</HintPath>
-		</Reference>
-		<Reference Include="Responsitory">
-			<HintPath>bin\Debug\net5.0\Responsitory.dll</HintPath>
-		</Reference>
-	</ItemGroup>
+<ItemGroup>
+    <ProjectReference Include="..\BussinessObject\BussinessObject.csproj" />
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\Responsitory\Responsitory.csproj" />
+</ItemGroup>
 
- 
+
   <ItemGroup>
     <Compile Update="Controllers\ProductController.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

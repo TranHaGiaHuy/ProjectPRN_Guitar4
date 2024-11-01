@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Responsitory.IService;
-using Responsitory.DTO;
+using Responsitory.IRepository;
+using BussinessObject.DTO;
 using System.Collections.Generic;
-using BussinessObject.Models;
 using Microsoft.AspNetCore.Authorization;
 using ShopProjectProductAPI.Helper;
 
@@ -16,9 +14,9 @@ namespace ShopProjectProductAPI.Controllers
     [Authorize]
     public class ProductsController : ControllerBase
     {
-        private readonly IProductService _productService;
+        private readonly IProductRepository _productService;
 
-        public ProductsController(IProductService productService)
+        public ProductsController(IProductRepository productService)
         {
             _productService = productService;
         }

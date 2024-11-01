@@ -30,7 +30,16 @@ namespace ShopProject_Client
             {
                 options.HtmlHelperOptions.ClientValidationEnabled = true;
             });
-            services.AddOcelot();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin()
+                               .AllowAnyHeader()
+                               .AllowAnyMethod();
+                    });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,6 +60,7 @@ namespace ShopProject_Client
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseCors("AllowAll");
 
             app.UseAuthorization();
 
@@ -58,7 +68,6 @@ namespace ShopProject_Client
             {
                 endpoints.MapRazorPages();
             });
-            app.UseOcelot().Wait();
         }
     }
 }

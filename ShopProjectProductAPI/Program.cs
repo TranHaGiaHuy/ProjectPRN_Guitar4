@@ -15,10 +15,7 @@ namespace ShopProjectProductAPI
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                    webBuilder.ConfigureKestrel(serverOptions =>
-                    {
-                        serverOptions.ListenAnyIP(80); // Lắng nghe tất cả địa chỉ IP trên cổng 80
-                    });
+                  
                 });
     }
 }

@@ -1,4 +1,5 @@
 using BussinessObject.Models;
+using DataAccess.DAOs;
 using DataAccess.DB;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -12,8 +13,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using Responsitory.IService;
-using Responsitory.Service;
+using Responsitory.IRepository;
+using Responsitory.Repository;
 using ShopProjectProductAPI.Helper;
 using System;
 using System.Collections.Generic;
@@ -35,29 +36,33 @@ namespace ShopProjectProductAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-           
             services.AddOptions();
             var mailsetting = Configuration.GetSection("MailSettings");
             services.Configure<EmailSetting>(mailsetting);
-            services.AddTransient<EmailService>();
-            services.AddScoped<IEmailService, EmailService>();
+            services.AddTransient<EmailRepository>();
+            services.AddScoped<IEmailRepository, EmailRepository>();
             services.AddDbContext<Db>(options =>
-               options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddTransient<ICategoryService, CategoryService>();
-            services.AddTransient<IOrderService, OrderService>();
-            services.AddTransient<IOrderDetailService, OrderDetailService>();
-            services.AddTransient<ICartService, CartService>();
-            services.AddTransient<IUserService, UserService>();
-            services.AddTransient<IAccountService, AccountService>();
-            services.AddTransient<IProductService, ProductService>();
-            services.AddScoped<ICategoryService, CategoryService>();
-            services.AddScoped<IOrderService, OrderService>();
-            services.AddScoped<IOrderDetailService, OrderDetailService>();
-            services.AddScoped<ICategoryService, CategoryService>();
-            services.AddScoped<ICartService, CartService>();
-            services.AddScoped<IUserService, UserService>();
-            services.AddScoped<IAccountService, AccountService>();
-            services.AddScoped<IProductService, ProductService>();
+             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            // Register DAOs
+            services.AddTransient<EmailDAO>();
+            services.AddTransient<CategoryDAO>();
+            services.AddTransient<OrderDAO>();
+            services.AddTransient<OrderDetailDAO>();
+            services.AddTransient<CartDAO>();
+            services.AddTransient<UserDAO>();
+            services.AddTransient<AccountDAO>();
+            services.AddTransient<ProductDAO>();
+
+            // Register Repositories
+            services.AddTransient<IEmailRepository, EmailRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<IOrderRepository, OrderRepository>();
+            services.AddScoped<IOrderDetailRepository, OrderDetailRepository>();
+            services.AddScoped<ICartRepository, CartRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IAccountRepository, AccountRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
             services.AddAutoMapper(typeof(Program));
             services.AddCors(options =>
             {
@@ -124,7 +129,7 @@ namespace ShopProjectProductAPI
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ShopProjecrtAccountAPI v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ShopProjectAPI v1"));
             }
 
             app.UseHttpsRedirection();

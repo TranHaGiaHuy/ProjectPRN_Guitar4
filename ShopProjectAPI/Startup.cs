@@ -1,4 +1,5 @@
 using BussinessObject.Models;
+using DataAccess.DAOs;
 using DataAccess.DB;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -43,17 +44,20 @@ namespace ShopProjectAPI
             services.AddDbContext<Db>(options =>
              options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddTransient<ICategoryRepository, CategoryRepository>();
-            services.AddTransient<IOrderRepository, OrderRepository>();
-            services.AddTransient<IOrderDetailRepository, OrderDetailRepository>();
-            services.AddTransient<ICartRepository, CartRepository>();
-            services.AddTransient<IUserRepository, UserRepository>();
-            services.AddTransient<IAccountRepository, AccountRepository>();
-            services.AddTransient<IProductRepository, ProductRepository>();
+            // Register DAOs
+            services.AddTransient<EmailDAO>();
+            services.AddTransient<CategoryDAO>();
+            services.AddTransient<OrderDAO>();
+            services.AddTransient<OrderDetailDAO>();
+            services.AddTransient<CartDAO>();
+            services.AddTransient<UserDAO>();
+            services.AddTransient<AccountDAO>();
+            services.AddTransient<ProductDAO>();
+            // Register Repositories
+            services.AddTransient<IEmailRepository, EmailRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddScoped<IOrderDetailRepository, OrderDetailRepository>();
-            services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ICartRepository, CartRepository>();
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IAccountRepository, AccountRepository>();
@@ -63,7 +67,7 @@ namespace ShopProjectAPI
             {
                 options.AddDefaultPolicy(builder =>
                 {
-                    builder.WithOrigins("https://localhost:44312")
+                    builder.AllowAnyOrigin()
                            .AllowAnyHeader()
                            .AllowAnyMethod();
                 });

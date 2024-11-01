@@ -269,7 +269,6 @@
             <p id="title" class="title-p">New Product</p>
             <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;" id="product-details"></div>
             <script>
-                const baseUrl = '@AppUrl.BaseUrl';
                 function loadRandomProducts() {
                     var token = sessionStorage.getItem('auToken');
                     $.ajax({
@@ -650,7 +649,7 @@
         var accessToken = sessionStorage.getItem("auToken");
         $.ajax({
             type: "GET",
-            url: baseUrl+ "Categories",
+            url: "https://localhost:7155/Categories",
             dataType: "json",
             headers: {
                 'Authorization': 'Bearer ' + accessToken
@@ -667,13 +666,15 @@
                 console.log("Data loaded successfully!");
             },
             error: function (jqXHR) {
+                console.error("Error Status: " + jqXHR.status);
+                console.error("Response Text: " + jqXHR.responseText);
                 if (jqXHR.status === 0) {
                     window.location.href = "/Error/Error500";
                 } else {
-                    // Handle other types of errors
                     console.error("Other error occurred: " + jqXHR.status);
                 }
             }
+
         });
     });
     function searchPhoneByCate(link) {

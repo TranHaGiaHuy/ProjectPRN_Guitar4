@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Responsitory.DTO;
-using Responsitory.IService;
+using BussinessObject.DTO;
+using Responsitory.IRepository;
 using System.Threading.Tasks;
 using System;
 using Microsoft.AspNetCore.Authorization;
@@ -14,8 +14,8 @@ namespace ShopProjectOrderAPI.Controllers
     [Authorize]
     public class OrderDetailController : ControllerBase
     {
-        private readonly IOrderDetailService _orderdetailService;
-        public OrderDetailController(IOrderDetailService orderdetailService)
+        private readonly IOrderDetailRepository _orderdetailService;
+        public OrderDetailController(IOrderDetailRepository orderdetailService)
         {
             _orderdetailService = orderdetailService;
         }

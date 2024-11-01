@@ -286,6 +286,9 @@ D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\BussinessObject.dll
+D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\DataAccess.dll
+D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\Responsitory.dll
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\BussinessObject.pdb
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\DataAccess.pdb
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\bin\Debug\net5.0\Responsitory.pdb
@@ -296,6 +299,7 @@ D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0\ShopProjectProductAPI.csproj.CoreCompileInputs.cache
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0\ShopProjectProductAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0\ShopProjectProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0\ShopProjectProductAPI.sourcelink.json
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0\ShopProjectProductAPI.RazorTargetAssemblyInfo.cache
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0\scopedcss\bundle\ShopProjectProductAPI.styles.css
 D:\FA24\PRN231\PRN231_Project\ShopProject\ShopProjectProductAPI\obj\Debug\net5.0\staticwebassets\ShopProjectProductAPI.StaticWebAssets.Manifest.cache

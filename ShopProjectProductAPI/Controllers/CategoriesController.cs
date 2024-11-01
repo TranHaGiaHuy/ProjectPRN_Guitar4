@@ -1,16 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using BussinessObject.Models;
-using DataAccess.DB;
-using Responsitory.IService;
-using Responsitory.DTO;
+using BussinessObject.DTO;
 using Microsoft.AspNetCore.Authorization;
 using ShopProjectProductAPI.Helper;
+using Responsitory.IRepository;
 
 namespace ShopProjectProductAPI.Controllers
 {
@@ -19,8 +14,8 @@ namespace ShopProjectProductAPI.Controllers
     [Authorize(Policy = IdentifyRole.AdminRole)]
     public class CategoriesController : ControllerBase
     {
-        private readonly ICategoryService _categoryService;
-        public CategoriesController(ICategoryService categoryService)
+        private readonly ICategoryRepository _categoryService;
+        public CategoriesController(ICategoryRepository categoryService)
         {
             _categoryService = categoryService;
         }

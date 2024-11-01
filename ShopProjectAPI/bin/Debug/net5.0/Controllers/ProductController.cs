@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Responsitory.IRepository;
 using BussinessObject.DTO;
 using System.Collections.Generic;
-using BussinessObject.Models;
 using Microsoft.AspNetCore.Authorization;
 using ShopProjectAPI.Helper;
 

@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using BussinessObject.Models;
-using Responsitory.DTO;
+using BussinessObject.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
